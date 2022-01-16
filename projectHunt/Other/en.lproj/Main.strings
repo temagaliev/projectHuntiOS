@@ -1,0 +1,255 @@
+
+/* Class = "UIButton"; normalTitle = "Пригласить"; ObjectID = "028-JB-eK6"; */
+"028-JB-eK6.normalTitle" = "Пригласить";
+
+/* Class = "UILabel"; text = "В поисках:"; ObjectID = "0af-Jz-TV7"; */
+"0af-Jz-TV7.text" = "В поисках:";
+
+/* Class = "UILabel"; text = "ios"; ObjectID = "0f8-Hc-XDg"; */
+"0f8-Hc-XDg.text" = "ios";
+
+/* Class = "UIButton"; configuration.title = "Присоединиться"; ObjectID = "0pb-fz-C3g"; */
+"0pb-fz-C3g.configuration.title" = "Присоединиться";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "0pb-fz-C3g"; */
+"0pb-fz-C3g.normalTitle" = "Button";
+
+/* Class = "UICommand"; title = "Item 1"; ObjectID = "2ma-Wh-Q8h"; */
+"2ma-Wh-Q8h.title" = "Item 1";
+
+/* Class = "UILabel"; text = "ios"; ObjectID = "3SR-Jw-pOr"; */
+"3SR-Jw-pOr.text" = "ios";
+
+/* Class = "UIBarButtonItem"; title = "Готово"; ObjectID = "3qD-yb-1yA"; */
+"3qD-yb-1yA.title" = "Готово";
+
+/* Class = "UINavigationItem"; title = "Профиль"; ObjectID = "4sa-sN-ZeH"; */
+"4sa-sN-ZeH.title" = "Профиль";
+
+/* Class = "UILabel"; text = "Full Project"; ObjectID = "6Io-9A-Rq0"; */
+"6Io-9A-Rq0.text" = "Full Project";
+
+/* Class = "UILabel"; text = "Выберите роль:"; ObjectID = "6N4-Wj-KBS"; */
+"6N4-Wj-KBS.text" = "Выберите роль:";
+
+/* Class = "UILabel"; text = "Мероприятие"; ObjectID = "6kG-to-3CB"; */
+"6kG-to-3CB.text" = "Мероприятие";
+
+/* Class = "UILabel"; text = "Чем хочу заниматься в проекте: разрабатывать мобильное приложение."; ObjectID = "6zl-tK-sjv"; */
+"6zl-tK-sjv.text" = "Чем хочу заниматься в проекте: разрабатывать мобильное приложение.";
+
+/* Class = "UILabel"; text = "О себе: разрабатывал мобильные приложения под iOS, имею опыт в разработке сайтов. "; ObjectID = "96J-KB-GQV"; */
+"96J-KB-GQV.text" = "О себе: разрабатывал мобильные приложения под iOS, имею опыт в разработке сайтов. ";
+
+/* Class = "UILabel"; text = "Full Project"; ObjectID = "A1t-hE-416"; */
+"A1t-hE-416.text" = "Full Project";
+
+/* Class = "UITextField"; placeholder = "Роль 2-го участника (необязателбно)"; ObjectID = "AUa-ax-Lpd"; */
+"AUa-ax-Lpd.placeholder" = "Роль 2-го участника (необязателбно)";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "B6B-qS-IeZ"; */
+"B6B-qS-IeZ.placeholder" = "Email";
+
+/* Class = "UINavigationItem"; title = "Проект"; ObjectID = "BIo-yR-zv5"; */
+"BIo-yR-zv5.title" = "Проект";
+
+/* Class = "UILabel"; text = "Заканчивается - 25.01.2022"; ObjectID = "CbZ-Ek-xeU"; */
+"CbZ-Ek-xeU.text" = "Заканчивается - 25.01.2022";
+
+/* Class = "UIButton"; normalTitle = "Войти"; ObjectID = "EiW-n7-Q75"; */
+"EiW-n7-Q75.normalTitle" = "Войти";
+
+/* Class = "UIBarButtonItem"; title = "Отмена"; ObjectID = "EwG-2X-7xj"; */
+"EwG-2X-7xj.title" = "Отмена";
+
+/* Class = "UITextField"; placeholder = "Повторите пароль"; ObjectID = "F52-Au-fKF"; */
+"F52-Au-fKF.placeholder" = "Повторите пароль";
+
+/* Class = "UILabel"; text = "Описание проекта:                                    Проект - это ограниченное во времени предприятие (мероприятие), направленное на создание\nуникальных продуктов и услуг или получение принципиально новых результатов.\nПроект может существовать в двух формах:                             -                                                                                              Цель:                                               \nКак составная часть программы, представляющая собой форму конкретизации и\nсодержательного наполнения приоритетных направлений развития социокультурной жизни\nтерритории.                                                                -                                                                                                                                                                                                                                             Итоговый продукт:\nКак самостоятельный   вариант решения локальной проблемы, адресованный конкретной\nаудитории."; ObjectID = "FeB-Ab-S7b"; */
+"FeB-Ab-S7b.text" = "Описание проекта:                                    Проект - это ограниченное во времени предприятие (мероприятие), направленное на создание\nуникальных продуктов и услуг или получение принципиально новых результатов.\nПроект может существовать в двух формах:                             -                                                                                              Цель:                                               \nКак составная часть программы, представляющая собой форму конкретизации и\nсодержательного наполнения приоритетных направлений развития социокультурной жизни\nтерритории.                                                                -                                                                                                                                                                                                                                             Итоговый продукт:\nКак самостоятельный   вариант решения локальной проблемы, адресованный конкретной\nаудитории.";
+
+/* Class = "UILabel"; text = "ios"; ObjectID = "H0Z-g9-eVH"; */
+"H0Z-g9-eVH.text" = "ios";
+
+/* Class = "UILabel"; text = "ios"; ObjectID = "IbC-d5-eqF"; */
+"IbC-d5-eqF.text" = "ios";
+
+/* Class = "UILabel"; text = "Серис по поиску проектов ProjectHunterHunt"; ObjectID = "IkX-Om-dHX"; */
+"IkX-Om-dHX.text" = "Серис по поиску проектов ProjectHunterHunt";
+
+/* Class = "UILabel"; text = "ios"; ObjectID = "JKj-kb-DXe"; */
+"JKj-kb-DXe.text" = "ios";
+
+/* Class = "UIButton"; normalTitle = "Текущие"; ObjectID = "KKa-a3-SXG"; */
+"KKa-a3-SXG.normalTitle" = "Текущие";
+
+/* Class = "UILabel"; text = "asxasxasxasxasxasxasx"; ObjectID = "KNO-BO-eVg"; */
+"KNO-BO-eVg.text" = "asxasxasxasxasxasxasx";
+
+/* Class = "UILabel"; text = "ios"; ObjectID = "KuF-u2-iyW"; */
+"KuF-u2-iyW.text" = "ios";
+
+/* Class = "UIButton"; normalTitle = "Редактировать"; ObjectID = "Lhz-fM-pZF"; */
+"Lhz-fM-pZF.normalTitle" = "Редактировать";
+
+/* Class = "UITextField"; placeholder = "Роль 3-го участника (необязателбно)"; ObjectID = "Lsw-8k-x15"; */
+"Lsw-8k-x15.placeholder" = "Роль 3-го участника (необязателбно)";
+
+/* Class = "UILabel"; text = "ios"; ObjectID = "LzG-Kw-LPM"; */
+"LzG-Kw-LPM.text" = "ios";
+
+/* Class = "UILabel"; text = "Серис по поиску проектов ProjectHunterHunt"; ObjectID = "Nap-re-YGe"; */
+"Nap-re-YGe.text" = "Серис по поиску проектов ProjectHunterHunt";
+
+/* Class = "UINavigationItem"; title = "Ваши мероприятия"; ObjectID = "NkI-GH-gpZ"; */
+"NkI-GH-gpZ.title" = "Ваши мероприятия";
+
+/* Class = "UILabel"; text = "Контакты для связи: +79080054838"; ObjectID = "Pqz-c4-WRI"; */
+"Pqz-c4-WRI.text" = "Контакты для связи: +79080054838";
+
+/* Class = "UICommand"; title = "Item 2"; ObjectID = "QKB-Cg-sJC"; */
+"QKB-Cg-sJC.title" = "Item 2";
+
+/* Class = "UINavigationItem"; title = "Добавить проект"; ObjectID = "QcQ-y4-tfg"; */
+"QcQ-y4-tfg.title" = "Добавить проект";
+
+/* Class = "UILabel"; text = "У вас пока что нет прошедших мероприятий"; ObjectID = "SvP-vp-bqq"; */
+"SvP-vp-bqq.text" = "У вас пока что нет прошедших мероприятий";
+
+/* Class = "UILabel"; text = "ios"; ObjectID = "UIl-9w-cp3"; */
+"UIl-9w-cp3.text" = "ios";
+
+/* Class = "UILabel"; text = "У вас пока что нет прошедших мероприятий"; ObjectID = "Ugr-Vh-p8B"; */
+"Ugr-Vh-p8B.text" = "У вас пока что нет прошедших мероприятий";
+
+/* Class = "UITextField"; placeholder = "Роль 1-го участника (необязателбно)"; ObjectID = "V6Q-1f-kxq"; */
+"V6Q-1f-kxq.placeholder" = "Роль 1-го участника (необязателбно)";
+
+/* Class = "UILabel"; text = "Навыки: iOS, Swift, Xcode, JS, VS Code, API."; ObjectID = "WKJ-Jh-27W"; */
+"WKJ-Jh-27W.text" = "Навыки: iOS, Swift, Xcode, JS, VS Code, API.";
+
+/* Class = "UICommand"; title = "Item 1"; ObjectID = "WVr-f8-Yiw"; */
+"WVr-f8-Yiw.title" = "Item 1";
+
+/* Class = "UILabel"; text = "ios"; ObjectID = "X2M-I3-jbV"; */
+"X2M-I3-jbV.text" = "ios";
+
+/* Class = "UITabBarItem"; title = "Мероприятия"; ObjectID = "Xqa-EG-AvB"; */
+"Xqa-EG-AvB.title" = "Мероприятия";
+
+/* Class = "UILabel"; text = "@artemgaliev"; ObjectID = "Xs5-U5-v4V"; */
+"Xs5-U5-v4V.text" = "@artemgaliev";
+
+/* Class = "UILabel"; text = "Full Project"; ObjectID = "Xzh-en-CTG"; */
+"Xzh-en-CTG.text" = "Full Project";
+
+/* Class = "UIButton"; normalTitle = "Проекты"; ObjectID = "Yhk-N0-UQC"; */
+"Yhk-N0-UQC.normalTitle" = "Проекты";
+
+/* Class = "UITextField"; placeholder = "Навыки: js, аналитика, html ,ios..."; ObjectID = "ZUt-ZL-rnv"; */
+"ZUt-ZL-rnv.placeholder" = "Навыки: js, аналитика, html ,ios...";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ZoT-lG-Tkm"; */
+"ZoT-lG-Tkm.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Проектный практикум 4 курс "; ObjectID = "Zta-a1-7pZ"; */
+"Zta-a1-7pZ.text" = "Проектный практикум 4 курс ";
+
+/* Class = "UITextField"; placeholder = "Роль 4-го участника (необязателбно)"; ObjectID = "Zzx-QF-ycq"; */
+"Zzx-QF-ycq.placeholder" = "Роль 4-го участника (необязателбно)";
+
+/* Class = "UIButton"; normalTitle = "Зарегистрироваться"; ObjectID = "aKX-cR-LFj"; */
+"aKX-cR-LFj.normalTitle" = "Зарегистрироваться";
+
+/* Class = "UITextField"; placeholder = "•••••••••••"; ObjectID = "aNR-vO-8YH"; */
+"aNR-vO-8YH.placeholder" = "•••••••••••";
+
+/* Class = "UINavigationItem"; title = "Проекты"; ObjectID = "aNw-bY-kJT"; */
+"aNw-bY-kJT.title" = "Проекты";
+
+/* Class = "UILabel"; text = "Галиев Артем"; ObjectID = "aYc-0n-nc5"; */
+"aYc-0n-nc5.text" = "Галиев Артем";
+
+/* Class = "UITextField"; placeholder = "Чем хочу заниматься в проекте..."; ObjectID = "bn7-73-Dwm"; */
+"bn7-73-Dwm.placeholder" = "Чем хочу заниматься в проекте...";
+
+/* Class = "UILabel"; text = "Аналитик"; ObjectID = "dQK-tT-ZpW"; */
+"dQK-tT-ZpW.text" = "Аналитик";
+
+/* Class = "UITextField"; placeholder = "Название проекта"; ObjectID = "fQp-Xr-VA0"; */
+"fQp-Xr-VA0.placeholder" = "Название проекта";
+
+/* Class = "UILabel"; text = "В поисках:"; ObjectID = "ffT-2A-33k"; */
+"ffT-2A-33k.text" = "В поисках:";
+
+/* Class = "UILabel"; text = "Разрабатывал мобильные приложения под iOS, имею опыт в разработке сайтов"; ObjectID = "fiz-76-vib"; */
+"fiz-76-vib.text" = "Разрабатывал мобильные приложения под iOS, имею опыт в разработке сайтов";
+
+/* Class = "UILabel"; text = "Войдите в аккаунт"; ObjectID = "hNy-RF-IPM"; */
+"hNy-RF-IPM.text" = "Войдите в аккаунт";
+
+/* Class = "UINavigationItem"; title = "Профиль"; ObjectID = "hTd-mX-y8Q"; */
+"hTd-mX-y8Q.title" = "Профиль";
+
+/* Class = "UIButton"; normalTitle = "Участники"; ObjectID = "hfB-2s-v29"; */
+"hfB-2s-v29.normalTitle" = "Участники";
+
+/* Class = "UITextField"; placeholder = "Фамилия"; ObjectID = "hpt-rw-ftD"; */
+"hpt-rw-ftD.placeholder" = "Фамилия";
+
+/* Class = "UITextField"; placeholder = "Фамилия Имя"; ObjectID = "jlR-6W-Odb"; */
+"jlR-6W-Odb.placeholder" = "Фамилия Имя";
+
+/* Class = "UITextField"; placeholder = "Контакты для связи: "; ObjectID = "jrf-nX-hxY"; */
+"jrf-nX-hxY.placeholder" = "Контакты для связи: ";
+
+/* Class = "UIButton"; normalTitle = "Прошедшие"; ObjectID = "kj9-gs-1qg"; */
+"kj9-gs-1qg.normalTitle" = "Прошедшие";
+
+/* Class = "UITextField"; placeholder = "Телефон: +79..."; ObjectID = "lBC-t5-Nu2"; */
+"lBC-t5-Nu2.placeholder" = "Телефон: +79...";
+
+/* Class = "UITabBarItem"; title = "Профиль"; ObjectID = "lZu-lI-rQ2"; */
+"lZu-lI-rQ2.title" = "Профиль";
+
+/* Class = "UITextField"; placeholder = "Имя"; ObjectID = "mx2-8H-GHm"; */
+"mx2-8H-GHm.placeholder" = "Имя";
+
+/* Class = "UIButton"; normalTitle = "Присоединиться"; ObjectID = "ng2-pe-KOE"; */
+"ng2-pe-KOE.normalTitle" = "Присоединиться";
+
+/* Class = "UILabel"; text = "+7(908)-003-05-02"; ObjectID = "pxZ-dV-erc"; */
+"pxZ-dV-erc.text" = "+7(908)-003-05-02";
+
+/* Class = "UILabel"; text = "Серис по поиску проектов ProjectHunterHunt"; ObjectID = "qrL-Yr-WVc"; */
+"qrL-Yr-WVc.text" = "Серис по поиску проектов ProjectHunterHunt";
+
+/* Class = "UILabel"; text = "Аналитик"; ObjectID = "sWE-v0-gkV"; */
+"sWE-v0-gkV.text" = "Аналитик";
+
+/* Class = "UITextView"; text = "О себе: ..."; ObjectID = "tyG-SH-vtM"; */
+"tyG-SH-vtM.text" = "О себе: ...";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "vcl-2A-OZz"; */
+"vcl-2A-OZz.title" = "Item";
+
+/* Class = "UITextField"; placeholder = "Телеграм: @username"; ObjectID = "vsd-zJ-DYH"; */
+"vsd-zJ-DYH.placeholder" = "Телеграм: @username";
+
+/* Class = "UILabel"; text = "Аналитик"; ObjectID = "wBL-39-O9p"; */
+"wBL-39-O9p.text" = "Аналитик";
+
+/* Class = "UILabel"; text = "+7(908)-003-05-02"; ObjectID = "wio-Tf-lNu"; */
+"wio-Tf-lNu.text" = "+7(908)-003-05-02";
+
+/* Class = "UITextView"; text = "Описание проекта..."; ObjectID = "wp1-cd-N7v"; */
+"wp1-cd-N7v.text" = "Описание проекта...";
+
+/* Class = "UILabel"; text = "@artemgaliev"; ObjectID = "z1d-H5-Mhe"; */
+"z1d-H5-Mhe.text" = "@artemgaliev";
+
+/* Class = "UILabel"; text = "ios"; ObjectID = "zDE-UB-DrG"; */
+"zDE-UB-DrG.text" = "ios";
+
+/* Class = "UICommand"; title = "Item 2"; ObjectID = "zNi-zn-ZWt"; */
+"zNi-zn-ZWt.title" = "Item 2";
